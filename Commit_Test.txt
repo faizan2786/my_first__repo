@@ -1,3 +1,2 @@
 Test Content for Git Commit.
-
-Changes added
+Changes added to the existing file.
