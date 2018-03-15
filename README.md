@@ -16,6 +16,8 @@ I was not new to version control system as I have been using SVN and Perforce fo
 
 So I decided to join Git and as a `Hello World` task, here is my first GIT repo. I seek your help and support to better understand Git. Hopefully this is just a beginning of my wonderful journey in open source community.  
 
+I have added a **python** file to show *how to make numpy array dataset (to further use it directly in ML or DL programme) from directory of Images*. How to load back this numpy dataset is also imcluded in the programme.
+
 Thanks for reading through the end.  
 
 Faizan Patel - A tech-lover
