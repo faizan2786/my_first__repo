@@ -6,8 +6,7 @@ from PIL import  Image
 
 # path ti the directory where the images are saved
 
-path = "C:\\Users\\Faizan\\OneDrive\\Internship Work\\Python Projects\\VS\\PythonClassifierApplication1\\" \
-       "CNN_Tensorflow\\Other_Files\\Image_Data\\Non_Defect"
+path = "path\to\images"
 	   
 
 image_width , image_height = 201, 201							#size of the images
